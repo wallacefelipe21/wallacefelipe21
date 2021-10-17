@@ -1,4 +1,4 @@
-<img align="right" src="./ilustration.png" width="400"/>
+<img align="right" src="./ilustracao.png" width="400"/>
 
 # Olá, eu sou o Wallace! 👋
 
