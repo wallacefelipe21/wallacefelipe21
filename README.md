@@ -1,6 +1,6 @@
-<img align="right" src="./ilustracao.png" width="400"/>
-
 # Olá, eu sou o Wallace! 👋
+
+<img align="right" src="./ilustracao.png" width="400"/>
 
 :mag: Tenho 18 anos e estou no último ano de um técnico em Desenvolvimento de Sistemas pela ETEC, onde conheci muitas áreas e tecnologias, mas as áreas voltadas ao desenvolvimento 
 frontend me chamaram mais a atenção, então estou buscando me aprimorar em React e React Native para criação de interfaces agradáveis e úteis, com a aplicação 
